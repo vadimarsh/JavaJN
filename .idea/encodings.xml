@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/javajn/Main.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/javajn/NewClass_res1.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/javajn/jnaction.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/javajn/jnbranch.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/javajn/jndictionary.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/javajn/jnelement.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/javajn/jnequalizer.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/javajn/jnsimpleaction.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/javajn/jnsimpledict.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/javajn/jnsolution.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/javajn/jntask.java" charset="windows-1251" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
